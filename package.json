@@ -1,0 +1,12 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "Landing page for Trillo App",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Jonas",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
